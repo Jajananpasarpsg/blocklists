@@ -1528,5 +1528,13 @@
         "url": "https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
         "pack": []
     }
+        {
+        "vname": "tiarap",
+        "format": "domains",
+        "group": "privacy",
+        "subg": "rethinkdns-recommended",
+        "url": "https://raw.githubusercontent.com/pengelana/blocklist/master/domain.txt"
+        "pack": []
+    }
   ]
 }
